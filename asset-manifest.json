@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cryBaby/static/css/main.6db9ebba.css",
+    "main.js": "/cryBaby/static/js/main.15b75014.js",
+    "static/js/787.7efd31bd.chunk.js": "/cryBaby/static/js/787.7efd31bd.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/cryBaby/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/cryBaby/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/cryBaby/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/cryBaby/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/cryBaby/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/cryBaby/index.html",
+    "main.6db9ebba.css.map": "/cryBaby/static/css/main.6db9ebba.css.map",
+    "main.15b75014.js.map": "/cryBaby/static/js/main.15b75014.js.map",
+    "787.7efd31bd.chunk.js.map": "/cryBaby/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6db9ebba.css",
+    "static/js/main.15b75014.js"
+  ]
+}
